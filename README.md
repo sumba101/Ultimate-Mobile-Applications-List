@@ -24,33 +24,33 @@ IF you are an iphone user, most of these applications will not be available for 
   * Preventing Tracking
   * Improving Privacy
 
-All suggestions can be used in both rooted and non-rooted android phones. If you do not know what rooted and non-rooted phones are, you are a non-rooted phone user and don't worry about it. 
+All suggestions can be used in both rooted and non-rooted android phones. If you do not know what rooted and non-rooted phones are, you are a non-rooted phone user and don't worry about it. Each of these applications are suggested after easily a year or more of usage. Each applications internet activity and community has also been checked to ensure its all safe. 
    
 ## Basic information and requirements
   * Open source 
-    Almost all the applications that are listed here are open source applications. To those who are not aware of what this means, basically the entire codebase behind each of these applications is available for others to see and suggest improvements to. This brings trust and safety because the code for these applications have figuratively passed through hundreds of eyes, ensuring no shady business. Famous examples of opensource projects are Firefox, VLC players, Libre office, etc.  
+    * Almost all the applications that are listed here are open source applications. To those who are not aware of what this means, basically the entire codebase behind each of these applications is available for others to see and suggest improvements to. This brings trust and safety because the code for these applications have figuratively passed through hundreds of eyes, ensuring no shady business. Famous examples of opensource projects are Firefox, VLC players, Libre office, etc.  
     
   * F-droid
-     A famous and safe app store for access to open source applications and projects is [F-Droid](https://f-droid.org/). All the applications listed can be found to download in F-Droid application. It is safe and secure. 
+    * A famous and safe app store for access to open source applications and projects is [F-Droid](https://f-droid.org/). All the applications listed can be found to download in F-Droid application. It is safe and secure. 
 ## Instagram
    [Instander](https://thedise.me/instander/) is a great mod app on instagram.
-   Pros
-    * No ads
-    * Download photos, videos, stories etc
-    * Upload and experience better quality of media that allowed by instagram
-    * Increased privacy settings
-    * Modification of Instagram layout
-    and more
+   * Pros
+      * No ads
+      * Download photos, videos, stories etc
+      * Upload and experience better quality of media that allowed by instagram
+      * Increased privacy settings
+      * Modification of Instagram layout
+      and more
     Instander also provides developer options(when long pressings the home buttom in instagram).     
 ## Youtube + YTMusic
    [Vanced](https://vancedmanager.com/) is a must have. Through the vanced manager, users can install vanced youtube and vanced yt music
-   Pros
-   * Ad free experience
-   * Ability to download videos, (cannot download music in ytmusic)
-   * Complete control over layout on youtube (example: bringing back original video quality settings, removal of merchandise, community posts, shorts and more)
+   * Pros
+     * Ad free experience
+     * Ability to download videos, (cannot download music in ytmusic)
+     * Complete control over layout on youtube (example: bringing back original video quality settings, removal of merchandise, community posts, shorts and more)
   Its basically Youtube premium without the ability to download ytmusic songs offline along with more customization control. HOWEVER, there is one important feature that makes youtube vanced a must have. Sponsor Block. 
   ### Sponsor Block.
-  With sponsor block enable on youtube vanced, all sponsor segments, Non-music sections, self promotions, Intermissions, Self promotions are immediately skipped. This allows for users to experiences purely nothing but the content that they want. 
+  With sponsor block enabled on youtube vanced, all sponsor segments, Non-music sections, self promotions, Intermissions, Self promotions are immediately skipped. This allows for users to experiences purely nothing but the content that they want. 
   Even if you have a youtube premium subscription, you can install vanced youtube solely for the ability to customize layout and well as for making use of SponsorBlock feature.
   SponsorBlock is also available as a browser addon for laptops.
 ## Free Movies and TVshows
@@ -91,7 +91,7 @@ Its pretty obvious that privacy and preventing data collection is more and more 
     * [NetGuard](https://f-droid.org/packages/eu.faircode.netguard) is a simple way to block access to the internet per application. This allows the user to even block and control the internet access for system applications which might be phoning home data in the background (Looking at you Xiaomi). 
    * VPN
       *  First a clarification, the application suggested here is not actually a VPN. The reason I have listed it as a VPN, is because its way better than any vpn provider option. Oh, and its free. [InviZible Pro](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable) increases your security and protects you by routing all you internet usage through the Tor network and well as making use of DNSCrypt
-     *  DNSCrypt
+     *  DNSCrypt: 
       DNS is used by most applications to translate domain names into IP addresses to find a remote server with the site that you want to visit. But this communication is not encrypted and can be used by attackers. DNSCrypt encrypts and authenticates DNS traffic, thus preventing DNS tracking and spoofing.
           * Encrypts DNS requests
           * Protects against DNS spoofing
@@ -99,8 +99,8 @@ Its pretty obvious that privacy and preventing data collection is more and more 
           * Protects against dangerous and phishing sites
           * Hides visited sites from your provider
           * Prevents some types of resource locks
-    * Tor
 
+  * Tor: 
       Tor encrypts Internet traffic and hides your actual location. It uses thousands of computers around the world to mask your IP address and prevents activity tracking to preserve your privacy and anonymity. Tor also provides access to onion services. These are sites that are in a completely hidden network without censorship.
       * Encrypts Internet traffic
       * Prevents sites locking
