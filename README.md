@@ -20,9 +20,9 @@ IF you are an iphone user, most of these applications will not be available for 
 
 ## Introduction
   The main focus behind all these suggested applications are
-    * Removal of ads
-    * Preventing Tracking 
-    * Improving Privacy
+  * Removal of ads
+  * Preventing Tracking
+  * Improving Privacy
 
 All suggestions can be used in both rooted and non-rooted android phones. If you do not know what rooted and non-rooted phones are, you are a non-rooted phone user and don't worry about it. 
    
